@@ -12,8 +12,6 @@ Assista ao vídeo de demonstração (40 segundos) mostrando todas as funcionalid
 
 [![📹 Assistir Demo](https://img.shields.io/badge/▶️-Assistir%20Demonstração-blue?style=for-the-badge)](https://screenapp.io/app/v/7AwZtwR7CV)
 
-**[🎬 Clique aqui para assistir ao vídeo](https://screenapp.io/app/v/7AwZtwR7CV)**
-
 ## ✨ Funcionalidades Principais
 
 ### 📊 1. Catálogo de Corretoras
